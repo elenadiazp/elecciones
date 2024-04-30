@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.xsl" type="text/xsl"?>
+
+<elecciones tipo="Autonómicas" comunidad="Castilla-la Mancha">
+  <votos>
+    <contabilizados numero="1091741">
+      <porcentaje>71.08</porcentaje>
+    </contabilizados>
+    <abstenciones numero="443994">
+      <porcentaje>28.91</porcentaje>
+    </abstenciones>
+    <nulos numero="18759">
+      <porcentaje>1.71</porcentaje>
+    </nulos>
+    <blancos numero="15347">
+      <porcentaje>1.43</porcentaje>
+    </blancos>
+  </votos>
+  <resultados>
+    <partido nombre="PSOE" logo="0030">
+      <escanos>17</escanos>
+      <votos>483500</votos>
+      <porcentaje>45.06</porcentaje>
+    </partido>
+    <partido nombre="PP" logo="0006">
+      <escanos>12</escanos>
+      <votos>361155</votos>
+      <porcentaje>33.65</porcentaje>
+    </partido>
+    <partido nombre="VOX" logo="0007">
+      <escanos>4</escanos>
+      <votos>137765</votos>
+      <porcentaje>12.83</porcentaje>
+    </partido>
+  </resultados>
+  <provincia id="1" nombre="Albacete">
+    <votos>
+      <contabilizados numero="205784">
+        <porcentaje>70.76</porcentaje>
+      </contabilizados>
+      <abstenciones numero="85024">
+        <porcentaje>29.23</porcentaje>
+      </abstenciones>
+      <nulos numero="3707">
+        <porcentaje>1.80</porcentaje>
+      </nulos>
+      <blancos numero="3394">
+        <porcentaje>1.67</porcentaje>
+      </blancos>
+    </votos>
+    <resultados>
+      <partido nombre="PP" logo="0006">
+        <escanos>3</escanos>
+        <votos>71713</votos>
+        <porcentaje>35.48</porcentaje>
+      </partido>
+      <partido nombre="UNIDAS PODEMOS CLM" logo="1737">
+        <escanos>0</escanos>
+        <votos>9324</votos>
+        <porcentaje>4.61</porcentaje>
+      </partido>
+            <partido nombre="PSOE" logo="0030">
+        <escanos>3</escanos>
+        <votos>86221</votos>
+        <porcentaje>42.66</porcentaje>
+      </partido>
+      <partido nombre="PAIS CON GESTORES" logo="0033">
+        <escanos>0</escanos>
+        <votos>686</votos>
+        <porcentaje>0.33</porcentaje>
+      </partido>      
+      <partido nombre="CS" logo="0027">
+        <escanos>0</escanos>
+        <votos>3255</votos>
+        <porcentaje>1.61</porcentaje>
+      </partido>
+      <partido nombre="VOX" logo="0007">
+        <escanos>1</escanos>
+        <votos>25102</votos>
+        <porcentaje>5.69</porcentaje>
+      </partido>      
+      <partido nombre="PACMA" logo="0031">
+        <escanos>0</escanos>
+        <votos>2382</votos>
+        <porcentaje>1.17</porcentaje>
+      </partido>
+    </resultados>
+  </provincia>
+  <provincia id="2" nombre="Ciudad Real">
+    <votos>
+      <contabilizados numero="271250">
+        <porcentaje>71.14</porcentaje>
+      </contabilizados>
+      <abstenciones numero="110021">
+        <porcentaje>28.85</porcentaje>
+      </abstenciones>
+      <nulos numero="4770">
+        <porcentaje>1.75</porcentaje>
+      </nulos>
+      <blancos numero="3841">
+        <porcentaje>1.44</porcentaje>
+      </blancos>
+    </votos>
+    <resultados>
+      <partido nombre="PACMA" logo="0031">
+        <escanos>0</escanos>
+        <votos>2508</votos>
+        <porcentaje>0.94</porcentaje>
+      </partido>    
+      <partido nombre="PP" logo="0006">
+        <escanos>2</escanos>
+        <votos>92097</votos>
+        <porcentaje>34.56</porcentaje>
+      </partido>
+      <partido nombre="VOX" logo="0007">
+        <escanos>1</escanos>
+        <votos>31973</votos>
+        <porcentaje>11.99</porcentaje>
+      </partido>
+      <partido nombre="PSOE" logo="0030">
+        <escanos>4</escanos>
+        <votos>124080</votos>
+        <porcentaje>46.56</porcentaje>
+      </partido>      
+      <partido nombre="CS" logo="0027">
+        <escanos>0</escanos>
+        <votos>2396</votos>
+        <porcentaje>0.89</porcentaje>
+      </partido>
+      <partido nombre="UNIDAS PODEMOS CLM" logo="1737">
+        <escanos>0</escanos>
+        <votos>9585</votos>
+        <porcentaje>3.59</porcentaje>
+      </partido>      
+    </resultados>
+  </provincia>
+  <provincia id="3" nombre="Cuenca">
+    <votos>
+      <contabilizados numero="114482">
+        <porcentaje>76.2</porcentaje>
+      </contabilizados>
+      <abstenciones numero="35745">
+        <porcentaje>23.79</porcentaje>
+      </abstenciones>
+      <nulos numero="1804">
+        <porcentaje>1.57</porcentaje>
+      </nulos>
+      <blancos numero="1772">
+        <porcentaje>1.57</porcentaje>
+      </blancos>
+    </votos>
+    <resultados>
+      <partido nombre="PSOE" logo="0030">
+        <escanos>3</escanos>
+        <votos>53441</votos>
+        <porcentaje>47.42</porcentaje>
+      </partido>
+      <partido nombre="CS" logo="0027">
+        <escanos>0</escanos>
+        <votos>765</votos>
+        <porcentaje>0.67</porcentaje>
+      </partido>
+      <partido nombre="PCAS-TC-RC" logo="1905">
+        <escanos>0</escanos>
+        <votos>154</votos>
+        <porcentaje>0.13</porcentaje>
+      </partido>            
+      <partido nombre="VOX" logo="0007">
+        <escanos>0</escanos>
+        <votos>11.796</votos>
+        <porcentaje>10.46</porcentaje>
+      </partido>
+      <partido nombre="UNIDAS PODEMOS CLM" logo="1737">
+        <escanos>0</escanos>
+        <votos>3596</votos>
+        <porcentaje>3.19</porcentaje>
+      </partido>
+      <partido nombre="PP" logo="0006">
+        <escanos>2</escanos>
+        <votos>37838</votos>
+        <porcentaje>33.58</porcentaje>
+      </partido>      
+      <partido nombre="+CU-EV" logo="1903">
+        <escanos>0</escanos>
+        <votos>1963</votos>
+        <porcentaje>1.74</porcentaje>
+      </partido>
+      <partido nombre="PACMA" logo="0031">
+        <escanos>0</escanos>
+        <votos>635</votos>
+        <porcentaje>0.56</porcentaje>
+      </partido>
+      <partido nombre="TÚPATRIA" logo="0037">
+        <escanos>0</escanos>
+        <votos>585</votos>
+        <porcentaje>0.51</porcentaje>
+      </partido>
+      <partido nombre="PAIS CON GESTORES" logo="0033">
+        <escanos>0</escanos>
+        <votos>133</votos>
+        <porcentaje>0.11</porcentaje>
+      </partido>
+    </resultados>
+  </provincia>
+  <provincia id="4" nombre="Guadalajara">
+    <votos>
+      <contabilizados numero="132160">
+        <porcentaje>68.98</porcentaje>
+      </contabilizados>
+      <abstenciones numero="59430">
+        <porcentaje>31.01</porcentaje>
+      </abstenciones>
+      <nulos numero="2032">
+        <porcentaje>1.53</porcentaje>
+      </nulos>
+      <blancos numero="1982">
+        <porcentaje>1.52</porcentaje>
+      </blancos>
+    </votos>
+    <resultados>
+      <partido nombre="CS" logo="0027">
+        <escanos>0</escanos>
+        <votos>1637</votos>
+        <porcentaje>1.25</porcentaje>
+      </partido>    
+      <partido nombre="UNIDAS PODEMOS CLM" logo="1737">
+        <escanos>0</escanos>
+        <votos>7729</votos>
+        <porcentaje>5.93</porcentaje>
+      </partido>      
+      <partido nombre="VOX" logo="0007">
+        <escanos>1</escanos>
+        <votos>20940</votos>
+        <porcentaje>16.09</porcentaje>
+      </partido>
+      <partido nombre="PSOE" logo="0030">
+        <escanos>2</escanos>
+        <votos>54942</votos>
+        <porcentaje>42.22</porcentaje>
+      </partido>      
+      <partido nombre="PACMA" logo="0031">
+        <escanos>0</escanos>
+        <votos>2059</votos>
+        <porcentaje>1.58</porcentaje>
+      </partido>
+      <partido nombre="PCAS-TC-RC" logo="1905">
+        <escanos>0</escanos>
+        <votos>677</votos>
+        <porcentaje>0.52</porcentaje>
+      </partido>
+      <partido nombre="PAIS CON GESTORES" logo="0033">
+        <escanos>0</escanos>
+        <votos>429</votos>
+        <porcentaje>0.32</porcentaje>
+      </partido>
+      <partido nombre="PP" logo="0006">
+        <escanos>2</escanos>
+        <votos>39437</votos>
+        <porcentaje>30.3</porcentaje>
+      </partido>      
+      <partido nombre="FE DE LAS JONS" logo="0113">
+        <escanos>0</escanos>
+        <votos>296</votos>
+        <porcentaje>0.22</porcentaje>
+      </partido>
+    </resultados>
+  </provincia>
+  <provincia id="5" nombre="Toledo">
+    <votos>
+      <contabilizados numero="368065">
+        <porcentaje>70.53</porcentaje>
+      </contabilizados>
+      <abstenciones numero="153774">
+        <porcentaje>29.46</porcentaje>
+      </abstenciones>
+      <nulos numero="6446">
+        <porcentaje>1.75</porcentaje>
+      </nulos>
+      <blancos numero="4358">
+        <porcentaje>1.20</porcentaje>
+      </blancos>
+    </votos>
+    <resultados>
+      <partido nombre="PP" logo="0006">
+        <escanos>3</escanos>
+        <votos>120070</votos>
+        <porcentaje>33.20</porcentaje>
+      </partido>    
+      <partido nombre="PSOE" logo="0030">
+        <escanos>5</escanos>
+        <votos>164816</votos>
+        <porcentaje>45.57</porcentaje>
+      </partido>
+      <partido nombre="UNIDAS PODEMOS CLM" logo="1737">
+        <escanos>0</escanos>
+        <votos>14228</votos>
+        <porcentaje>3.93</porcentaje>
+      </partido>
+      <partido nombre="PACMA" logo="0031">
+        <escanos>0</escanos>
+        <votos>2916</votos>
+        <porcentaje>0.80</porcentaje>
+      </partido>
+      <partido nombre="AQUI AHORA" logo="4949">
+        <escanos>0</escanos>
+        <votos>704</votos>
+        <porcentaje>0.19</porcentaje>
+      </partido>      
+      <partido nombre="CS" logo="0027">
+        <escanos>0</escanos>
+        <votos>2623</votos>
+        <porcentaje>0.72</porcentaje>
+      </partido>
+      <partido nombre="ESPAÑA VACIADA" logo="0266">
+        <escanos>0</escanos>
+        <votos>1638</votos>
+        <porcentaje>0.45</porcentaje>
+      </partido>
+      <partido nombre="VOX" logo="0007">
+        <escanos>1</escanos>
+        <votos>47954</votos>
+        <porcentaje>13.26</porcentaje>
+      </partido>      
+      <partido nombre="P.C.P.E." logo="0086">
+        <escanos>0</escanos>
+        <votos>967</votos>
+        <porcentaje>0.26</porcentaje>
+      </partido>
+      <partido nombre="PAIS CON GESTORES" logo="0033">
+        <escanos>0</escanos>
+        <votos>848</votos>
+        <porcentaje>0.23</porcentaje>
+      </partido>
+      <partido nombre="PCAS-TC-RC" logo="1905">
+        <escanos>0</escanos>
+        <votos>497</votos>
+        <porcentaje>0.13</porcentaje>
+      </partido>
+    </resultados>
+  </provincia>
+</elecciones>
